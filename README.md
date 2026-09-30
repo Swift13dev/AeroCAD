@@ -44,6 +44,8 @@ The SIH problem statement therefore calls for an AI-enabled platform that can us
 
 **AeroCAD** is an **AI-assisted urban cadastral mapping and verification platform** designed to take aerial and geospatial data and turn it into **preliminary, reviewable cadastral information**.
 
+Video demonstration link - [AeroCAD](https://drive.google.com/file/d/1YbyHn0VsJcihsGW3uCZWLbe1_ksPdr1A/view?usp=sharing)
+
 AeroCAD does not treat cadastral mapping as a simple:
 
 > **Drone image → AI prediction**
